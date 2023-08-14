@@ -13,5 +13,5 @@ pip install -r requirements.txt
 ```bash
 python tic_tac_toe.py
 ```
-![Image](sample1.png)
+![Image](./sample1.png)
 Click on the README button and follow the instructions to play.
