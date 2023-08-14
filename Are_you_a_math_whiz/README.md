@@ -15,6 +15,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![image](./datas/sample.png)
+![image](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample.PNG)
 
 Click on Instructions and follow the instructions.
