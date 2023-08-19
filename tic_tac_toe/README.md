@@ -23,12 +23,12 @@ pip install -r requirements.txt
 ```bash
 python tic_tac_toe.py
 ```
-![Image](https://github.com/abnakore/Pygame/blob/main/tic_tac_toe/sample1.PNG, "Tic Tac Toe home page")
+![Image](https://github.com/abnakore/Pygame/blob/main/tic_tac_toe/sample1.PNG)
 
 Click on the About button and follow the instructions to play.
 
 Main game Screen
-![Image](https://github.com/abnakore/Pygame/blob/main/tic_tac_toe/sample2.PNG, "Tic Tac Toe Playing")
+![Image](https://github.com/abnakore/Pygame/blob/main/tic_tac_toe/sample2.PNG)
 
 Win screen
-![Image](https://github.com/abnakore/Pygame/blob/main/tic_tac_toe/sample3.PNG, "Tic Tac Toe Win")
+![Image](https://github.com/abnakore/Pygame/blob/main/tic_tac_toe/sample3.PNG)
