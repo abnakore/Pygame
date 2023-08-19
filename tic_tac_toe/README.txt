@@ -1,4 +1,14 @@
 
+How To play:
+1. Select from the modes available (single player or multiplayer).
+2. The game is played on a grid that's 3 squares by 3 squares.
+3. You are either X or O, your friend (or the computer if the mode 
+    selected is single player) is either O or X.
+4. Players take turns putting their marks in empty squares.
+5. The first player to get 3 of his/her marks in a row (up, down,
+    across, or diagonally) is the winner.
+5. When all 9 squares are full without winning, the game is a tie.
+
 About me:
 I am Abdullahi Abdurrazaq Nakore, I started my
 programming journey in the year 2020 when I was 14 
@@ -27,13 +37,3 @@ The journey is very exciting however, I face some
 challenges like juggling between school and programming
 activities, and I know more challenges lie ahead but I
 am equal to the task Now more so than ever.
-
-How To play:
-1. Select from the modes available (single player or multiplayer).
-2. The game is played on a grid that's 3 squares by 3 squares.
-3. You are either X or O, your friend (or the computer if the mode 
-    selected is single player) is either O or X.
-4. Players take turns putting their marks in empty squares.
-5. The first player to get 3 of his/her marks in a row (up, down,
-    across, or diagonally) is the winner.
-5. When all 9 squares are full without winning, the game is a tie.
