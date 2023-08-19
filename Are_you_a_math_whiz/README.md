@@ -30,18 +30,18 @@ python main.py
 
 Click on the Instructions Button and follow the instructions.
 
-- Topic Selection Page
+Topic Selection Page
 
 ![image](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample1.PNG)
 
-- Difficulty Selection page
+Difficulty Selection page
 
 ![image](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample2.PNG)
 
-- Main game Screen
+Main game Screen
 
 ![image](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample3.PNG)
 
-- Result Page
+Result Page
 
 ![image](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample4.PNG)

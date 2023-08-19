@@ -28,7 +28,9 @@ python tic_tac_toe.py
 Click on the About button and follow the instructions to play.
 
 Main game Screen
+
 ![Image](https://github.com/abnakore/Pygame/blob/main/tic_tac_toe/sample2.PNG)
 
 Win screen
+
 ![Image](https://github.com/abnakore/Pygame/blob/main/tic_tac_toe/sample3.PNG)
