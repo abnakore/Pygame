@@ -44,4 +44,4 @@ Click on the Instructions Button and follow the instructions.
 
 - Result Page
 
-![image](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample4.PNG, "Are you a math whiz page")
+![image 4](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample4.PNG)
