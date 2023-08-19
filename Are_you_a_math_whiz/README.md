@@ -26,22 +26,22 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![image](./datas/sample.PNG, "Are you a math whiz home page")
+![image](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample.PNG)
 
 Click on the Instructions Button and follow the instructions.
 
 - Topic Selection Page
 
-![image](/datas/sample1.PNG, "Are you a math whiz page")
+![image](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample1.PNG)
 
 - Difficulty Selection page
 
-![image](datas/sample2.PNG, "Are you a math whiz page")
+![image](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample2.PNG)
 
 - Main game Screen
 
-![image](.datas/sample3.PNG, "Are you a math whiz page")
+![image](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample3.PNG)
 
 - Result Page
 
-![image 4](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample4.PNG)
+![image](https://github.com/abnakore/Pygame/blob/main/Are_you_a_math_whiz/datas/sample4.PNG)
